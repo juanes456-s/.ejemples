@@ -1,0 +1,74 @@
+body{
+    background-color: powderblue
+}
+h1{
+    border: 8px solid black;
+    color: aqua;
+    font-size: 40px;
+    background-color:rgb(66, 2, 68);
+    font-family:verdana;
+    text-align: center;
+}
+.ur{
+    font-size:30px; 
+    color:chartreuse; 
+    background-color:green; 
+    font-family:courier;
+    border: solid orange;
+}
+.br{
+    font-size: 20px;
+    color:blueviolet;
+    background-color:rgb(255, 99, 71);
+    padding: 30px;
+    margin: 50px;
+}
+pre{
+    font-size: 15px;
+    border: 2px solid green;
+}
+.tu{
+    width: 200px;
+    height: 200px;
+}
+.hu{
+    background-color: black;
+}
+.hu:link {
+    color: green;
+    text-decoration: none;
+}
+  
+.hu:visited {
+    color: pink;
+    text-decoration: none;
+}
+  
+.hu:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+.hu:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+.he:link, .he:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.he:hover, a:active {
+    background-color: red;
+}
+.nu{
+    float:right;
+    width:42px;
+    height:42px;
+}
